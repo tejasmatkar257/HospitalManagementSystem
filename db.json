@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "staff": [
+    {
+      "name": "Tejas",
+      "role": "Doctor",
+      "gender": "male",
+      "age": 23,
+      "id": 4
+    },
+    {
+      "name": "Dr Gulati",
+      "role": "Doctor",
+      "gender": "male",
+      "age": 35,
+      "id": 5
+    }
+  ]
+}
